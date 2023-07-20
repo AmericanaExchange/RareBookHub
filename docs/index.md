@@ -27,8 +27,12 @@ url: <https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/
 ![CICD_01](https://github.com/AmericanaExchange/RareBookHub/assets/817567/012401d4-93d8-4eba-a5c4-7a786392a4f2)
 
 # **View Events**
+Click on the View Events link to look at the logs.
 ![CICD_08](https://github.com/AmericanaExchange/RareBookHub/assets/817567/fc12fd8b-c5dc-4153-b65d-e9de2dd7c645)
 
+# **Retry Deployment**
+![CICD_08](https://github.com/AmericanaExchange/RareBookHub/assets/817567/b1ddbd72-e276-4278-b449-c120a4acd799)
+Click on the Retry Deployment button to initiate an redeployment.
 # **Some useful links:** 
 
 pipeline definition
