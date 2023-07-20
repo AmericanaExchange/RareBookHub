@@ -26,6 +26,9 @@ url: <https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/
 # **Deployment steps:**
 ![CICD_01](https://github.com/AmericanaExchange/RareBookHub/assets/817567/012401d4-93d8-4eba-a5c4-7a786392a4f2)
 
+# **View Events**
+![CICD_08](https://github.com/AmericanaExchange/RareBookHub/assets/817567/fc12fd8b-c5dc-4153-b65d-e9de2dd7c645)
+
 # **Some useful links:** 
 
 pipeline definition
