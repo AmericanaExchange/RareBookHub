@@ -1,6 +1,6 @@
 # Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+// For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 **CI/CD Pipeline**
 # **Application**
@@ -28,8 +28,11 @@ url: <https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/pipelines/
 
 # **Some useful links:** 
 
-pipeline definition https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/start?region=us-east-1
+pipeline definition
+https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/start?region=us-east-1
 
-deployments https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/deployments?region=us-east-1
+deployments
+https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/deployments?region=us-east-1
 
-app definition https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1
+app definition
+https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1
