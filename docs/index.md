@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## CI/CD Pipelinr
+## CI/CD Pipeline
 
 ## Code Annotation Examples
 
