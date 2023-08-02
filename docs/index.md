@@ -1,15 +1,14 @@
 # Homepage
 
-// For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-**CI/CD Pipeline**
+# **CI/CD Pipeline**
 
 # **Login**
 
-UserName: bill
-Password: ********
+UserName: bill     
 
-[URL:https://967707654896.signin.aws.amazon.com/console](https://967707654896.signin.aws.amazon.com/console)
+Password: ********     
+
+[URL: https://967707654896.signin.aws.amazon.com/console](https://967707654896.signin.aws.amazon.com/console)
 
 # **Application**
 url: <https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1>
