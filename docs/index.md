@@ -3,6 +3,14 @@
 // For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 **CI/CD Pipeline**
+
+# **Login**
+
+UserName: bill
+Password: ********
+
+[URL:https://967707654896.signin.aws.amazon.com/console](https://967707654896.signin.aws.amazon.com/console)
+
 # **Application**
 url: <https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1>
 ![CICD_07](https://github.com/AmericanaExchange/RareBookHub/assets/817567/2ef166c8-1674-45aa-9df8-c4efcc4b4e95)
