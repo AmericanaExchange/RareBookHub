@@ -5,7 +5,6 @@
 # **Login**
 
 UserName: bill     
-
 Password: ********     
 
 [URL: https://967707654896.signin.aws.amazon.com/console](https://967707654896.signin.aws.amazon.com/console)
@@ -42,11 +41,8 @@ Click on the View Events link to look at the logs.
 Click on the Retry Deployment button to initiate an redeployment.
 # **Some useful links:** 
 
-pipeline definition
-https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/start?region=us-east-1
+[pipeline definition](https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/start?region=us-east-1)   
 
-deployments
-https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/deployments?region=us-east-1
+[deployments](https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/deployments?region=us-east-1)   
 
-app definition
-https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1
+[app definition](https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1)   
