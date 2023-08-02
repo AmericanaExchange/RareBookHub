@@ -40,9 +40,6 @@ Click on the View Events link to look at the logs.
 ![CICD_08](https://github.com/AmericanaExchange/RareBookHub/assets/817567/b1ddbd72-e276-4278-b449-c120a4acd799)
 Click on the Retry Deployment button to initiate an redeployment.
 # **Some useful links:** 
-
-[pipeline definition](https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/start?region=us-east-1)   
-
-[deployments](https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/deployments?region=us-east-1)   
-
-[app definition](https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1)   
+[Pipeline definition](https://us-east-1.console.aws.amazon.com/codesuite/codepipeline/start?region=us-east-1)   
+[Deployments](https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/deployments?region=us-east-1)   
+[App definition](https://us-east-1.console.aws.amazon.com/codesuite/codedeploy/applications?region=us-east-1)   
